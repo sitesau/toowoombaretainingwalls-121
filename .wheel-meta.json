@@ -1,0 +1,22 @@
+{
+  "wheel_id": 944,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-121",
+  "project": "retaining-wall-repairs-toowoomba-faq-7b1d56a50fa0493fb3954b9809",
+  "parent_t1_ref": "toowoombaretainingwalls-160",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba faq",
+  "intended_url": "https://sitesau.github.io/toowoombaretainingwalls-121/",
+  "tier": "T2",
+  "writeback_nonce": "515a0d51fbf65f78",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-local-options-compared-12790e5/",
+      "anchor": "Retaining Wall Repairs Toowoomba Local Options Compared: Gui",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
